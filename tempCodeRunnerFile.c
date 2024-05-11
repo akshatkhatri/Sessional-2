@@ -1,1 +1,1 @@
-sum(a,b);
+printf("%d",arr[2])
