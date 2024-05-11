@@ -1,2 +1,9 @@
 #include<stdio.h>
-printf("hello world");
+int main(){
+
+
+
+
+
+printf("\n");
+}
