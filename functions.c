@@ -39,8 +39,7 @@ int main()
 
 // pass by value
 void sum(int a,int b){
-    a=20;
-    printf("%d\n",a); //20
+    
     int c=a+b;
     printf("%d\n",c);
 
