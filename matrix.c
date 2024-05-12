@@ -1,3 +1,7 @@
+// Author - Akshat Khatri
+// Date- 12 May 2024
+// To perform Diffrent operations on A Matrix
+
 #include <stdio.h>
 #include <stdlib.h>
 
